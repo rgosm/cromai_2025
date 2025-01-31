@@ -1,5 +1,4 @@
-from os import access, getpid
-import os
+from os import getpid
 from time import sleep
 import logging
 
