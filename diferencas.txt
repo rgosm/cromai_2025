@@ -1,0 +1,2 @@
+Comparando o script em schell com o modelo conteitual, adicionei a criação do arquivo PID caso ele não exista usando o próprio script em python.
+Quanto ao script em python, adicionei a tentativa em abrir o arquivo pid.txt, desta forma, o processo não quebrará caso houver algum erro. Adicionei também o registro no mesmo arquivo de log que o processo em shellscript usa para registrar seus logs. 
